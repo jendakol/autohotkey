@@ -1,0 +1,1 @@
+PrintScreen::Send "#+s"
